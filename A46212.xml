@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Whereas we are informed that some considerable quantities of wooll have been fraudulently exported out of this kingdom, from obscure places, under false package, without lycence or payment of His Majesties duties ... by the Lord Deputy and Council, Arran.</title>
+            <author>Ireland. Lord Deputy.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46212</idno>
+            <idno type="STC">Wing I980</idno>
+            <idno type="STC">ESTC R36978</idno>
+            <idno type="EEBO-CITATION">16170438</idno>
+            <idno type="OCLC">ocm 16170438</idno>
+            <idno type="VID">104970</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46212)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104970)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1595:75)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Whereas we are informed that some considerable quantities of wooll have been fraudulently exported out of this kingdom, from obscure places, under false package, without lycence or payment of His Majesties duties ... by the Lord Deputy and Council, Arran.</title>
+                  <author>Ireland. Lord Deputy.</author>
+                  <author>Arran, Richard Butler, Earl of, d. 1686.</author>
+               </titleStmt>
+               <extent>[2] leaves.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Benjamin Took ... and are to be sold by Mary Crooke ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>[1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first 6 lines of text.</note>
+                  <note>Statement of responsibility transposed from head of title.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Given at the Council chamber in Dublin the ninth day of June, 1684"--leaf [2]</note>
+                  <note>Broadside in [2] leaves.</note>
+                  <note>Reproduction of original in the Society of Antiquaries Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wool industry --  Law and legislation --  Ireland.</term>
+               <term>Smuggling --  Ireland.</term>
+               <term>Ireland --  History --  1649-1775.</term>
+               <term>Ireland --  Politics and government --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:104970:1"/>
+            <!-- PDF PAGE 1 -->
+            <head>
+               <figure>
+                  <q>DIEV ET MON DROIT</q>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>BY THE Lord Deputy AND COUNCIL,</head>
+            <opener>
+               <signed>ARRAN.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS We are Informed that con<g ref="char:EOLhyphen"/>ſiderable quantities of <hi>Wooll</hi> have been frau<g ref="char:EOLhyphen"/>dulently Exported out of this Kingdom, from Obſcure places, under falſe Package, without Lycence or payment of His Majeſties Du<g ref="char:EOLhyphen"/>ties; and ſome parts thereof have been car<g ref="char:EOLhyphen"/>ried into Forreign parts, contrary to ſeveral Statutes in that caſe made, and Provided: And we being deſirous that all Care imagi<g ref="char:EOLhyphen"/>nable might be taken for preventing miſchiefs of the like nature for the time to come, And that due inquiries might be made in order to the puniſhing Offendors for the time paſt, and to come; have thought fit, and do hereby ſtrictly Charge and Command all, and every Iuſtice, and Iuſtices of the Peace, <hi>Mayors, Sher<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffs, Bayliffs, Conſtables, Head Boroughs, Clerks</hi> of the <hi>Peace,</hi> &amp; alſo His Majeſties <hi>Commiſſioners</hi> of His Majeſties Revenue, &amp; all His Majeſties <hi>Cuſtomers. Comptrollers, Surveyor<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> &amp; <hi>Searchers</hi> of, &amp; in the ſeveral <hi>Ports,</hi> and all other <hi>Officers</hi> whatſoever, within every <hi>Burough, Town-Corporate, Port,</hi> and <hi>Place:</hi> and all other His Majeſties Subjects whatſoe<g ref="char:EOLhyphen"/>ver in this Kingdom; That they and every of them do forthwith from time to time make diligent and ſtrict inquiry, whether there hath been, or ſhall be any manner of <hi>Wooll, Sheep. Fells</hi> or <hi>Wooll-Fells</hi> tranſported out of this Kingdom without Lycence obtained therefore, or without paying the Duty thereof. By whom ſuch Tranſportation hath been, from what place, and whether.</p>
+            <p>And we do alſo require all His Majeſties ſaid Officers and good Sub<g ref="char:EOLhyphen"/>jects, that they take all poſſible care to prevent the ſame for the future, and if any perſon or perſons ſhall diſcover that any manner of <hi>Wooll, Sheep, Fells,</hi> or <hi>Wooll-Fells</hi> hath been, or ſhall be tranſported to Forreign parts, or into <hi>England,</hi> without Lycence firſt obtained, and His Majeſties Duty paid for the ſame: We do will and require all<g ref="char:punc">▪</g> and every ſuch perſon and perſons to make the ſame known to the next Iuſtice of the Peace, or to His Ma<g ref="char:EOLhyphen"/>jeſties Attorney General for the time being, that ſuch perſons may be proceeded againſt according to Law; And every perſon &amp; perſons who ſhall make ſuch diſcoveries, &amp; good proof thereof, ſhall upon the conviction of ſuch perſon or perſons as ſhall be found guilty of the Miſdemeanors &amp; fraud a<g ref="char:EOLhyphen"/>foreſaid, receive for his and their encouragement and paines therein, one full moiety, or half of all ſuch goods, or damages as ſhall accrue unto His Majeſtie upon the diſcoverie and Seizure, or adjudged to be had againſt the perſon or perſons ſo offending.</p>
+            <p>
+               <pb facs="tcp:104970:2"/>
+               <!-- PDF PAGE 2 -->
+And for the better preventing all frauds of the like nature for the time to come; We do hereby will and require all His Majeſties <hi>C<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtomers,</hi> and <hi>Cuſtom-Houſe Officers</hi> belonging to any Port of this Kingdom, that they do forthwith certifie unto Vs at the Councell Board what remained Vnentred, or unſhipt off, upon any Lycences granted before the <hi>25th.</hi> of <hi>Auguſt</hi> laſt, and what Warrants they have received for the Exportation of <hi>Wooll</hi> ſince the ſaid <hi>25th.</hi> day of <hi>Auguſt</hi> which was in the Year of our <hi>Lord God 1<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>83.</hi> And what <hi>Wooll</hi> hath been ſhipt thereon, and when and whither, and what Bonds they have taken for the Landing thereof, and at what places every particular quantity of <hi>Wooll</hi> was to be Landed, and by whom ſuch Bonds were entred into, &amp; which of them are returned, into His Majeſties Court of Exchequer, &amp; when, &amp; which of them they returned with Certificates annex<g ref="char:EOLhyphen"/>ed &amp; what Bonds or Certificates do ſtill remain in thei<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hands not returned</p>
+            <p>And we do ſtrictly Charge &amp; Command all His Majeſties ſaid <hi>Cuſtomers,</hi> or <hi>Cuſtom Houſe Officers</hi> who of right have, or ought to have the cuſtody of ſuch Bonds in the ſeveral Ports of this Kingdom, that they do forthwith return into the Chief Remembrancers Office of His Majeſties Court of Exchequer, all ſuch bonds as they now have in their hands (if the time by the condition of the ſaid Bond limited be exſpired, and no Certificate thereon given in) And that for the future they do quarterly return into His Ma<g ref="char:EOLhyphen"/>jeſties ſaid Court of Exchequer, all ſuch Bonds as they ſhall have in their cuſtody according to Law if the time for returning Certificates according to the condition of the ſaid bonds be elapſed, that Proceſs and Execution may be had thereupon, according to the Statutes in ſuch Caſes made &amp; provided.</p>
+            <p>And for the better ordering &amp; regulating the Exportation of ſuch <hi>Wooll, Wooll Fells and Sheep Fells</hi> as ſhall be though fit to be Litenſed, and at any time hereafter Exported out of this Realm into His Majeſties King<g ref="char:EOLhyphen"/>dom of <hi>England,</hi> or Dominion of <hi>Wales</hi> after Entry and Duty paid, we have thought fit (at the inſtance and deſire of the preſent Commiſſioners of His Majeſties Revenue) and do accordingly order and direct, and do alſo hereby ſtrictly charge and require, that no <hi>Merchant</hi> or other perſons whatſoever do preſume to ſhip off any manner of <hi>Wooll, Sheep, Fells, Wooll Fells</hi> or any <hi>Sheep-Skins</hi> or <hi>Lamb Skins</hi> with ſuch proportion of <hi>Wooll</hi> on them, as may be uſefull for <hi>Woollen</hi> Manufacture into any part of <hi>England</hi> from any <hi>Port, Harbour,</hi> or <hi>Creek</hi> of this Kingdom, other then from ſuch Ports &amp; Places as are hereafter particularly mentioned <hi>(viz.)</hi> From <hi>Drogheda, Dublin, Roſ<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Water<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ord. Yough<g ref="char:EOLhyphen"/>hal, Cork Lymerick, Gallaway, Sligo, Lond<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rry</hi> &amp; <hi>C<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rrigfergus</hi> or ſome of them.</p>
+            <p>And we do alſo Charge and Command all His Majeſties <hi>Cuſtomers, Col<g ref="char:EOLhyphen"/>lectors,</hi> and <hi>Officers</hi> in the aforeſaid ſeveral and reſpective Ports, that they take ſpecial care to take good Bonds (according to the Statutes) with ſufficient ſecurity, before they permit any <hi>Wooll</hi> to be Exported out of this Kingdom, into <hi>England</hi> or <hi>Wales,</hi> as they will anſwer the contrary at their perils, And that no <hi>Collector</hi> do take Entry of any <hi>Wooll, Sheep-Fells Wooll-Fells,</hi> or of any <hi>Sheep-skins</hi> (<hi>or Lambskins</hi> with ſuch proportions of <hi>Woo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l</hi> on them as may be uſefull for <hi>Woollen</hi> Manufarture) in any of the aforeſaid Ports, or receive His Majeſties Duty for, or diſcharge the ſame, untill firſt he be certified from the Commiſſioners of His Majeſties <hi>Cuſtoms</hi> or from His Majeſties <hi>Cuſtomer</hi> &amp; <hi>Comptroller</hi> of the ſaid Ports or their ſufficient Depu<g ref="char:EOLhyphen"/>tes, that there is a Lycence granted for the ſame, and good Bonds taken in manner as aforeſaid, according to Law, &amp; all perſons whom theſe preſents do or may concern, are hereby required to take notice hereof, and duly obſerve the ſame; upon pain of His Majeſties high diſpleaſure, &amp; ſuch pains &amp; penal<g ref="char:EOLhyphen"/>ties as by the Laws and Statutes of this Realm may be inflicted upon them for their contempt, diſobedience, or negligence in that behalf, as they will anſwer the contrary at their utmoſt perills.</p>
+            <closer>
+               <dateline>Given at the Council Chamber in <hi>Dublin</hi>
+                  <date>the ninth day of <hi>June,</hi> 1684.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Mich: Armach. C.</item>
+                     <item>Drogheda.</item>
+                     <item>Bleſinton.</item>
+                     <item>Char. Meredith</item>
+                     <item>John Keating.</item>
+                     <item>He: Hene.</item>
+                     <item>Jon: Davys.</item>
+                     <item>Rich: Reynell.</item>
+                     <item>Mau<g ref="char:punc">▪</g> Euſtace,</item>
+                     <item>Tho. Newcomen.</item>
+                     <item>Adam Loftus.</item>
+                  </list>
+               </signed>
+               <lb/>
+God Save the King</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN,</hi> printed by <hi>Benjamin Took,</hi> Printer to the Kings moſt Excellent Majeſty and are to be ſold by <hi>Mary Crooke,</hi> at His Majeſties Printing-Houſe on <hi>Ormonde Key.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
